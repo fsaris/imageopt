@@ -4,7 +4,7 @@
 	"description": "Optimize images resized by TYPO3 so they take less space. TYPO3 services used. Cron based. Support for linux native commands and external services as Kraken.io etc.",
 	"license": ["GPL-2.0+"],
 	"require": {
-		"typo3/cms-core": ">=6.2.0,<7.6.99"
+		"typo3/cms-core": ">=6.2.0,<8.7.99"
 	},
 	"autoload": {
 		"psr-4": {
